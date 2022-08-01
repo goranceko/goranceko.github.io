@@ -70,7 +70,7 @@ $(window).on('load', function() {
         strings: [
             "Hi there!",
             "I'm Goran Čeko.",
-            "Lead Software Engineer at Instana, an IBM Company.",
+            "Senior Software Engineer at Payoneer.",
             "From Novi Sad, Serbia."
         ],
         typeSpeed: 10,
