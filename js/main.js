@@ -75,7 +75,7 @@ $(window).on('load', function() {
             "Java web applications, software design aspects, \ncontinuous integration, and microservices.",
             "I am a recreational cyclist, musician and craft beer lover. "
         ],
-        typeSpeed: 12,
+        typeSpeed: 20,
         loop:true,
         backDelay: 2000
     });
