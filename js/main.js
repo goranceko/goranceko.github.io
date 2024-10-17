@@ -69,10 +69,10 @@ $(window).on('load', function() {
     $(".element").typed({
         strings: [
             "Hi there! I'm Goran Čeko.",
-            "Senior Software Engineer at Payoneer, located in Novi Sad, Serbia.",
-            "I have more than 10 years of experience as a software developer and solution architect.",
-            "Demonstrated expertise working with infrastructure, cloud and container environments,",
-            "Java web applications, software design aspects, continuous integration, and microservices.",
+            "Senior Software Engineer at Payoneer, \nlocated in Novi Sad, Serbia.",
+            "I have more than 10 years of experience \nas a software engineer and solution architect.",
+            "Demonstrated expertise working with infrastructure, \ncloud and container environments,",
+            "Java web applications, software design aspects, \ncontinuous integration, and microservices.",
             "I am a recreational cyclist, musician and craft beer lover. "
         ],
         typeSpeed: 12,
