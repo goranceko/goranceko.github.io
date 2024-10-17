@@ -61,8 +61,6 @@ $(window).on('load', function() {
         }
     });
 
-
-
     /*------------------
         TYPED JS
     --------------------*/
@@ -75,9 +73,9 @@ $(window).on('load', function() {
             "Java web applications, software design aspects, \ncontinuous integration, and microservices.",
             "I am a recreational cyclist, musician and craft beer lover. "
         ],
-        typeSpeed: 20,
+        typeSpeed: 40,
         loop:true,
-        backDelay: 2000
+        backDelay: 1000
     });
 
 
