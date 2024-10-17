@@ -69,7 +69,7 @@ $(window).on('load', function() {
     $(".element").typed({
         strings: [
             "Hi there! I'm Goran Čeko.",
-            "Senior Software Engineer at Payoneer, located in Novi Sad, Serbia."
+            "Senior Software Engineer at Payoneer, located in Novi Sad, Serbia.",
             "I have more than 10 years of experience as a software developer and solution architect.",
             "Demonstrated expertise working with infrastructure, cloud and container environments,",
             "Java web applications, software design aspects, continuous integration, and microservices.",
